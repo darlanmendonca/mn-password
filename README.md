@@ -5,7 +5,7 @@
 
 # mn-password
 
-A input component (type text, password or email), with minimalist design.
+A password component with minimalist design.
 
 See the [demo](https://minimalist-components.github.io/mn-password/)
 
