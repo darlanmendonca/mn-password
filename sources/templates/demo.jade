@@ -24,9 +24,10 @@ body
 
   .layout-fullscreen.layout-centered
     .layout-container
-      mn-form.layout-column.layout-sm-row(spellcheck='false')
-        mn-password.flex#password(placeholder='password' type='password')
-        //- button submit
+      mn-form.layout-column.layout-sm-row
+        mn-password.flex#password(placeholder='password')
+        mn-password.flex#confirm-password(placeholder='confirm password')
+        button.mn-button submit
 
   .docs.layout-container
     mn-code.sh.
