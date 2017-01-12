@@ -9,7 +9,7 @@ A password component with minimalist design.
 
 See the [demo](https://minimalist-components.github.io/mn-password/)
 
-[![preview demo](https://raw.githubusercontent.com/minimalist-components/mn-password/master/sources/example/mn-password.gif)](https://minimalist-components.github.io/mn-password/)
+<!-- [![preview demo](https://raw.githubusercontent.com/minimalist-components/mn-password/master/sources/example/mn-password.gif)](https://minimalist-components.github.io/mn-password/) -->
 
 ### Install
 
