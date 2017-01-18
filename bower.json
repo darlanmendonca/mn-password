@@ -1,6 +1,5 @@
 {
   "name": "mn-password",
-  "version": "0.0.1",
   "description": "A password component with minimalist design",
   "main": [
     "dist/mn-password.css",
@@ -12,7 +11,7 @@
   "license": "MIT",
   "homepage": "",
   "dependencies": {
-    "mn-input": "^0.0.39"
+    "mn-input": "^0.0.46"
   },
   "devDependencies": {
     "mn-gh-page": "^0.0.12",
