@@ -1,6 +1,6 @@
-[![Bower version](https://badge.fury.io/bo/mn-password.svg)](https://badge.fury.io/bo/mn-password)
+[![npm version](https://badge.fury.io/js/mn-password.svg)](https://badge.fury.io/js/mn-password)
 [![Dependency Status](https://gemnasium.com/badges/github.com/minimalist-components/mn-password.svg)](https://gemnasium.com/github.com/minimalist-components/mn-password)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) 
 
 
 # mn-password
@@ -9,15 +9,15 @@ A password component with minimalist design.
 
 See the [demo](https://minimalist-components.github.io/mn-password/)
 
-<!-- [![preview demo](https://raw.githubusercontent.com/minimalist-components/mn-password/master/sources/example/mn-password.gif)](https://minimalist-components.github.io/mn-password/) -->
+[![preview demo](https://raw.githubusercontent.com/minimalist-components/mn-password/master/preview.gif)](https://minimalist-components.github.io/mn-password/)
 
 ### Install
 
 ```sh
-bower install --save mn-password
+npm install --save mn-password
 ```
 
-Or just download the main files, located in [dist/](https://github.com/minimalist-components/mn-password/tree/master/dist)
+And bundle dependencies and main files in [dist/](https://github.com/minimalist-components/mn-select/tree/master/dist) with your preferred tool.
 
 ### Usage
 

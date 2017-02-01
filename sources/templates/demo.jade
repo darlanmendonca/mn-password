@@ -22,19 +22,18 @@ body
   h2 mn-password
   include github-corner
 
-  .layout-fullscreen.layout-centered
-    .layout-container
-      mn-form.layout-column.layout-sm-row
+  .mn-layout-fullscreen.mn-layout-centered
+    .mn-layout-container
+      mn-form.mn-layout-column.mn-layout-sm-row
         mn-password.flex#password(placeholder='password')
         mn-password.flex#confirm-password(placeholder='confirm password')
         //- button.mn-button submit
 
-  .docs.layout-container
+  .docs.mn-layout-container
     mn-code.sh.
-      # to install this module
-      bower install --save mn-password
+      npm install --save mn-password
 
-    p Or just download the main files, located in dist/
+    p And bundle dependencies and main files in <strong>dist/</strong> with your preferred tool.
 
     h3 usage
 
