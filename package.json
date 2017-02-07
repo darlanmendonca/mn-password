@@ -1,6 +1,6 @@
 {
   "name": "mn-password",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a password component with minimalist design",
   "main": "dist/mn-password.js",
   "files": [
@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "mn-input": "^0.0.4"
+    "mn-input": "^0.0.5"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
