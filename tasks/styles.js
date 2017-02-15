@@ -25,7 +25,7 @@ function stylesTask() {
 }
 
 function errorHandler(err) {
-  let message = new gutil.PluginError('gulp-sass', err.messageFormatted).toString()
+  const message = new gutil.PluginError('gulp-sass', err.messageFormatted).toString()
   process.stderr.write(message + '\n')
   gutil.beep()
 }
